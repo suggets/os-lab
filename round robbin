@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+int bt,tq;
+printf("enter brust time:");
+scanf("%d",&bt);
+printf("enter time quatum :");
+scanf("%d",&tq);
+printf("execute the process using round robbin:");
+return 0;
+}
+
+
+
+
+
+
+
+
+
+
